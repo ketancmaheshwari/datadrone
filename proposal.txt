@@ -1,0 +1,47 @@
+
+Drone based data motion
+
+Proposing a campus wide drone based data motion system.
+
+A protocol that will decide upon the processes of:
+- data delivery, 
+- encryption, 
+- compression etc.
+
+Back of the envelope Bandwidth calculations
+
+Back of the envelope cost calculations
+
+Benefits
+-- out of band
+-- no firewalls
+-- emergency
+-- no network
+-- congested network
+-- Novel idea
+-- Can be patented
+-- Utility in a wide variety of scenarios
+
+
+
+
+Motivation
+-- Drones are getting sophisticated
+    - size
+    - capacity
+    - navigation
+-- Data storage devices are getting lighter and denser
+    - 
+
+Prototype Scheme
+
+-- Building vicinity stations
+-- A receptacle connected to computer
+-- drone carries SSD
+-- lands in such a way that the ssd endpoints plugs into the computer's usb plug triggering disk mount action
+-- Disk mount will trigger a data dump operation
+
+
+
+
+
