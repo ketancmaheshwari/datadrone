@@ -8,7 +8,16 @@ A protocol that will decide upon the processes of:
 - encryption, 
 - compression etc.
 
+Motivation
+-- Drones are getting sophisticated
+    - Range
+    - Payload capacity
+    - navigation
+-- Data storage devices are getting lighter and denser
+
 Back of the envelope Bandwidth calculations
+
+    ORNL main-campus is 1.3 miles end-to-end.
 
 Back of the envelope cost calculations
 
@@ -22,26 +31,22 @@ Benefits
 -- Can be patented
 -- Utility in a wide variety of scenarios
 
+A possible step-by-step scenario of a data transfer
 
-
-
-Motivation
--- Drones are getting sophisticated
-    - size
-    - capacity
-    - navigation
--- Data storage devices are getting lighter and denser
-    - 
+step1. At source the user will move data to /drone dir on DTN
+step2. User will signal drone to start data transfer
+step3. Drone lifts-off and reaches the destination coordinates and lands
+step4. Landing on the pod triggers a mount action on /drone at the destination DTN
+step5. The user at destination moves data from /drone to their home area
+step6. The user at destination signals the end of data transfer.
+step7. Drone is ready for next data transfer.
 
 Prototype Scheme
 
 -- Building vicinity stations
 -- A receptacle connected to computer
--- drone carries SSD
+-- drone carries SSDs wrapped in weatherproof jackets
 -- lands in such a way that the ssd endpoints plugs into the computer's usb plug triggering disk mount action
 -- Disk mount will trigger a data dump operation
-
-
-
 
 
