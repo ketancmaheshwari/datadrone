@@ -25,7 +25,7 @@ Benefits
 -- out of band
 -- no firewalls
 -- emergency
--- no network
+-- no network, multi-day on-site experiments; data can be sent to processing facility and results can be had during the experiment steering it to beneficial direction.
 -- congested network
 -- Novel idea
 -- Can be patented
