@@ -34,7 +34,7 @@ Benefits
 A possible step-by-step scenario of a data transfer
 
 step1. At source the user will move data to /drone dir on DTN
-step2. User will signal drone to start data transfer
+step2. User signals drone to start transfer
 step3. Drone lifts-off and reaches the destination coordinates and lands
 step4. Landing on the pod triggers a mount action on /drone at the destination DTN
 step5. The user at destination moves data from /drone to their home area
@@ -49,4 +49,8 @@ Prototype Scheme
 -- lands in such a way that the ssd endpoints plugs into the computer's usb plug triggering disk mount action
 -- Disk mount will trigger a data dump operation
 
+Contingencies
 
+-- Rain could damage disks attached to drone 
+-- Wind could cause drone to crash
+-- Lightning could cause the drone pod to damage
