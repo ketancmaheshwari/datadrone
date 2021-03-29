@@ -29,7 +29,7 @@ Benefits
 -- congested network
 -- Novel idea
 -- Can be patented
--- Utility in a wide variety of scenarios
+-- Utility in a wide variety of scenarios, eg. while the network is under investigation for a suspected intrusion
 
 A possible step-by-step scenario of a data transfer
 
